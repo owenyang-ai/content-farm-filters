@@ -1,7 +1,7 @@
 ! Title: Content Farm Filters
 ! Description: Filter for general content farms, mostly in Chinese.
 ! Expires: 3 days
-! Last modified: 2024-06-30T19:50:20+00:00
+! Last modified: 2025-01-01T12:38:13+00:00
 ! Homepage: https://danny0838.github.io/content-farm-terminator/
 ! Licence: MIT License
 ! Source: https://danny0838.github.io/content-farm-terminator/files/blocklist-ubo/content-farms.txt
@@ -15437,6 +15437,71 @@ bestone-work.com  #redirects to comeworlds.com
 speakout.hk
 decoration-skills.com
 headline01.com
+zzfmdn.com
+aixue.net
+jkwshk.tv
+babyystory.com
+toopartner.com  #redirects to kknsays.com
+onegreatlifestyle.com
+12luckyhome.com
+daapower.com
+parentups.com  #redirects to daapower.com
+i-besthome.com  #redirects to dsawjk.com
+with-summer.com  #redirects to dsawjk.com
+goodtime-life.com  #redirects to niice-woker.com
+petsccs.com  #redirects to comeworlds.com
+healthdst.com  #redirects to 12luckyhome.com
+pzhzwz.com
+ykggwz.com
+wz.36840.com
+xt88888.com
+||cdweb.net/article^$doc
+goodnn.xyz
+wingyyds.com  #redirects to goodnn.xyz
+praiseme12.com  #redirects to dsawjk.com
+superhaoyun01.com
+ntdgamers.com
+freecool.cc
+eeurl.club  #redirects to coms.pub
+thisreader.com  #redirects to coms.pub
+bigeaterxiii.pixnet.net
+jinglemom.com  #redirects to picture.t9y3c.com
+helppywith.ubpages.com  #phishing
+shortli.ru  #redirects to helppywith.ubpages.com
+fec-aliva.com.tr
+tiposnews.gr
+health-wonderful.com  #redirects to dsawjk.com
+babumaw.ubpages.com  #phishing
+qr.paps.jp  #redirects to babumaw.ubpages.com
+unbouncepages.com  #phishing
+cookerlife.cc  #redirects to cocovn.net
+webnews-24.com
+xiaoshouhou.cn
+vegerje.best
+tegerje.best
+ilove-top.com  #redirects to picture.t9y3c.com
+ptt.best
+life-knowhow.com  #redirects to comeworlds.com
+nvbad.com  #redirects to comeworlds.com
+x-income.com
+allpetshare.com  #redirects to dsawjk.com
+team-method.com  #redirects to t9y3c.com
+onlywins24.com
+sbprinters.co.za  # redirects to onlywins24.com
+enews.tw
+radionewse.com
+gunews97.com  #redirects to woof-puppys.com
+funnies.xyz  #redirects to video.cklive.live
+bajie8.com
+chaoliuzhu.com
+dnzp.com
+limte.net  #redirects to maimai.pro
+bestlovetop.com
+goodtxt.top
+happyshare818.com
+99funnews.com  #redirects to babyucute.com
+co-47.com  #redirects to sweetastes.com
+ytttube.com  #redirects to justshare.live
 # aggregation: #!cxyzjd
 # source: https://raw.githubusercontent.com/wdmpa/content-farm-list/main/domains/spam/cxyzjd.txt
 # homepage: https://github.com/wdmpa/content-farm-list
@@ -15905,6 +15970,7 @@ arturceronski.pl  #!spamdex
 artysciprzeciwnienawisci.pl  #!spamdex
 aryabarberfranchising.it  #!spamdex
 arztdata-club.de  #!spamdex
+asbestverwijderingadviseur.nl  #!spamdex
 asbp.it  #!spamdex
 asdbresciasportpiu.it  #!spamdex
 asesoresbaza.es  #!spamdex
@@ -16004,6 +16070,7 @@ bar-a-vin-le-loft.fr  #!spamdex
 barbarabijoux.it  #!spamdex
 barberone.fr  #!spamdex
 bardepintxosdonostia.es  #!spamdex
+barfoodporn.pl  #!spamdex
 bargelateriaarcobaleno.it  #!spamdex
 barrows-insurance.eu  #!spamdex
 barworkacademy.pl  #!spamdex
@@ -16036,6 +16103,7 @@ bedzieglosno.pl  #!spamdex
 behindthebox.de  #!spamdex
 bejessa.de  #!spamdex
 bekonscot.eu  #!spamdex
+belarusianbonus.eu  #!spamdex
 believeshoponline.it  #!spamdex
 belkasart.de  #!spamdex
 belladieta.pl  #!spamdex
@@ -16109,6 +16177,7 @@ biuroobslugitransportu.pl  #!spamdex
 biznesdaddy.pl  #!spamdex
 bizplatform.pl  #!spamdex
 bizuterniczka.pl  #!spamdex
+blackclover-mobile.fr  #!spamdex
 blacktaste.pl  #!spamdex
 blackthornian.eu  #!spamdex
 blaich-sportpartner.de  #!spamdex
@@ -16169,6 +16238,7 @@ bubbleit.es  #!spamdex
 buchhaltungbayern.de  #!spamdex
 bughy.it  #!spamdex
 bukowski-remonty.pl  #!spamdex
+bularmoric.fr  #!spamdex
 bulimie.eu  #!spamdex
 bullesetvous.fr  #!spamdex
 bundeswehr-ingolstadt.de  #!spamdex
@@ -16373,6 +16443,7 @@ comtoneroki.es  #!spamdex
 comunitamindful.it  #!spamdex
 conceptvaning.fr  #!spamdex
 congo-paint.fr  #!spamdex
+congresoenesa2023.es  #!spamdex
 connektyou.fr  #!spamdex
 conquistailtuofuturo.it  #!spamdex
 consorzioastro.it  #!spamdex
@@ -16654,6 +16725,7 @@ eclubpolito.it  #!spamdex
 ecm-uniecampus.it  #!spamdex
 eco-plus-habitat.fr  #!spamdex
 eco-ricicli-filiere.it  #!spamdex
+ecoclip-project.eu  #!spamdex
 ecodnova.pl  #!spamdex
 ecomise.eu  #!spamdex
 economischdoorleren.nl  #!spamdex
@@ -16771,6 +16843,7 @@ estrader-patrimoine.fr  #!spamdex
 estylshop.pl  #!spamdex
 etevia.eu  #!spamdex
 ethnasia.it  #!spamdex
+etudespragmatiques.fr  #!spamdex
 eufloodcommand.eu  #!spamdex
 eukorea-fire.eu  #!spamdex
 euro-autoo.pl  #!spamdex
@@ -16927,6 +17000,7 @@ formulamentoring.eu  #!spamdex
 forstbetrieb-baumann.de  #!spamdex
 fortepianino.pl  #!spamdex
 forum-minerva.de  #!spamdex
+fosolympiqueclub.fr  #!spamdex
 foto-agent.pl  #!spamdex
 fotoart-canarias.es  #!spamdex
 fotobenevento.it  #!spamdex
@@ -17000,6 +17074,7 @@ gdr-wuppertal.de  #!spamdex
 gdyyqcyp.com  #!spamdex
 gebessert.de  #!spamdex
 gebufft.de  #!spamdex
+geltopitaly.it  #!spamdex
 gemaelde-boerse.de  #!spamdex
 genadvice.es  #!spamdex
 genitoriproscuola.it  #!spamdex
@@ -17092,6 +17167,7 @@ gtb-communication.eu  #!spamdex
 gtctrading.pl  #!spamdex
 gti-windykacja.pl  #!spamdex
 gtymmo.fr  #!spamdex
+guanabay.fr  #!spamdex
 guengoer-tga.de  #!spamdex
 guidatwitter.it  #!spamdex
 guidogezellelaan102.nl  #!spamdex
@@ -17138,6 +17214,7 @@ hdtrucks.it  #!spamdex
 healinglightviseum.eu  #!spamdex
 healthyshit.nl  #!spamdex
 heatpipepisa.it  #!spamdex
+hebrewbonus.eu  #!spamdex
 hedder.pl  #!spamdex
 heidrunjochims.de  #!spamdex
 heilende-energie.eu  #!spamdex
@@ -17201,6 +17278,7 @@ hundepension-fettig.de  #!spamdex
 hundesalon-el-roi.de  #!spamdex
 hundesalon-pino.de  #!spamdex
 hundundpfote.de  #!spamdex
+hungrydays.fr  #!spamdex
 huracanpadel.it  #!spamdex
 hurdsgra.pl  #!spamdex
 hurry-cut.de  #!spamdex
@@ -17369,6 +17447,7 @@ jm-epave.fr  #!spamdex
 jmservera.com  #!spamdex
 joecapista.eu  #!spamdex
 josevicenteabogado.es  #!spamdex
+josselinpierre.fr  #!spamdex
 jouerautennis.fr  #!spamdex
 jousei.pl  #!spamdex
 jozwiakrafal.pl  #!spamdex
@@ -17678,6 +17757,7 @@ luigiscoglio.it  #!spamdex
 luisafassino.it  #!spamdex
 lumiere-lab.pl  #!spamdex
 lunarastore.pl  #!spamdex
+lunetlautrephotographes.fr  #!spamdex
 lupka24.pl  #!spamdex
 lustambild.de  #!spamdex
 luther-trifft-franziskus.de  #!spamdex
@@ -17901,6 +17981,7 @@ mondaybrews.pl  #!spamdex
 monika-maratova.eu  #!spamdex
 montepaoneviaggi.it  #!spamdex
 montevidoncombatte.eu  #!spamdex
+monval.es  #!spamdex
 moresearch.pl  #!spamdex
 morindainfantil.es  #!spamdex
 mosa22.pl  #!spamdex
@@ -18112,6 +18193,7 @@ ospsporysz.pl  #!spamdex
 osrodekdompodlasem.pl  #!spamdex
 osswald-wandert.de  #!spamdex
 osteopathie-poing.de  #!spamdex
+osteriaeraora.it  #!spamdex
 ostojacamp.pl  #!spamdex
 ostseeurlaub-2019.de  #!spamdex
 ostseevelosophen.de  #!spamdex
